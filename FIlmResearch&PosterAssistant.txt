@@ -1,3 +1,14 @@
+Zo gebruik je hem voortaan
+Heel eenvoudig:
+1. Kopieer de volledige startprompt hierboven naar een nieuwe chat.
+2. Plak daarna bijvoorbeeld https://www.youtube.com/watch?v=TLkA0RELQ1g.
+3. De AI zoekt de film uit en maakt de Engelse postertekst, credits, makersinformatie, officiële links en beeldsuggesties voor je.
+Je hoeft dus niet meer uit te leggen dat je een Canva-template hebt, dat je de makers wilt eren of dat je een publieke VRChat Cinema beheert.
+
+Wat ik hier vooral belangrijk aan vind: jouw filmcollectie krijgt zo één herkenbare redactionele stijl. Of het nu gaat om een Blender Open Movie, een natuurdocumentaire, een bijzondere onafhankelijke filmmaker of een Studium Generale-lezing: bezoekers krijgen niet alleen een titel, maar ook een verhaal over de mensen en ideeën erachter.
+
+En dat is precies de identiteit die jouw Open Arthouse Cinema & Stage inmiddels begint te krijgen. ❤️
+
 # MASTER STARTPROMPT — STEFANIEINVR FILM RESEARCH & POSTER ASSISTANT
 
 ## YOUR ROLE
