@@ -1,0 +1,10 @@
+Hoi Sol 6.1 Medium,
+
+De "rode kerstbal" die ik nu geselecteerd hebt, is het voorbeeld.
+Ik heb drie objecten gekozen en in Edit Mode één "rode kerstbal" geselecteerd als voorbeeld.
+
+Zoek en selecteer alle "rode kerstballen" binnen deze drie objecten. Vergelijk de 3D-vorm en gebruik waar nodig de Base Color-texture via UV0 om rode ballen van groen-witte ballen te onderscheiden. Grootte, draaiing en positie mogen verschillen.
+
+Selecteer de complete "kerstbalonderdelen", zodat hun bijbehorende lightmap-eilanden op UV1 geselecteerd worden. Voer eerst alleen deze selectie uit. Ik wil het resultaat bekijken voordat we de eilanden verplaatsen.
+
+Controleer eerst welke drie objecten bij de opdracht horen. Werk in kleine stappen en meld hoeveel "kerstballen" je per object gevonden hebt. Laat twijfelgevallen apart ter controle.
